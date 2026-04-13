@@ -7,7 +7,7 @@ A personal knowledge base maintained by LLM agents such as Claude Code and Codex
 This repo is a GitHub template. To create a new wiki project:
 
 ```sh
-gh repo create my-new-wiki --template jesseyoung/llm-wiki-template --clone
+gh repo create my-new-wiki --template jesse/llm-wiki-template --clone --private
 cd my-new-wiki
 ./setup.sh
 ```
