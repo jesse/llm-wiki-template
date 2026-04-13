@@ -4,7 +4,7 @@ A personal knowledge base maintained by LLM agents such as Claude Code and Codex
 
 ## Purpose
 
-This wiki is a structured, interlinked knowledge base for planning a trip to Japan. Claude maintains the wiki. The human curates sources, asks questions, and guides the analysis.
+TKTK
 
 ## Folder structure
 
