@@ -38,3 +38,6 @@ wiki/log.md   -- append-only record of all operations
 
 - [GitHub CLI](https://cli.github.com/) (`gh`) for creating repos from the template
 - [Claude Code](https://claude.ai/claude-code) or another LLM agent that reads `CLAUDE.md`
+
+## Attribution
+- The `CLAUDE.md` file was forked from [Teacher's Tech](https://go.teachers.tech/LLM_Wiki_CLAUDE)
