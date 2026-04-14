@@ -91,4 +91,5 @@ When the user asks you to lint or audit the wiki:
 - Keep page names lowercase with hyphens (e.g. `machine-learning.md`)
 - Write in clear, plain language
 - When uncertain about how to categorize something, ask the user
-- Datetime format should be MM/DD/YYYY HH:MMAM/PM Timezone (ex: 10/31/2025 1:15PM EST)
+- Get the current time by running `date "+%m/%d/%Y %I:%M%p %Z"` before writing timestamps.
+- Datetime format should be MM/DD/YYYY HH:MMAM/PM Timezone (ex: 10/31/2025 1:15pm EST)
