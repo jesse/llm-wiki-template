@@ -87,9 +87,12 @@ When the user asks you to lint or audit the wiki:
 ## Rules
 
 - Never modify anything in the `raw/` folder
-- Always update `wiki/index.md` and `wiki/log.md` after changes
-- Keep page names lowercase with hyphens (e.g. `machine-learning.md`)
-- Write in clear, plain language
-- When uncertain about how to categorize something, ask the user
+- Always update `wiki/index.md` and `wiki/log.md` after changes.
 - Get the current time by running `date "+%m/%d/%Y %I:%M%p %Z"` before writing timestamps.
-- Datetime format should be MM/DD/YYYY HH:MMAM/PM Timezone (ex: 10/31/2025 1:15pm EST)
+- Datetime format should be MM/DD/YYYY HH:MMam/pm Timezone (ex: 10/31/2025 1:15pm EST)
+- Always include a timestamp at the top of the document for any edits, with format: "Last edited: <timstamp>"
+- Keep page names lowercase with hyphens (e.g. `machine-learning.md`)
+- Write in clear, plain language. Avoid jargon.
+- When synthesizing research, update findings in existing documents rather than creating new ones.
+- Only create a new document when necessary, but ask the user.
+- When uncertain about how to categorize something, ask the user.
