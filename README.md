@@ -4,7 +4,7 @@ A personal knowledge base maintained by LLM agents such as Claude Code and Codex
 
 ## Usage
 
-This repo is a GitHub template. To create a new wiki project:
+This repo is a GitHub template. To create a new wiki private project (change the flag to `--public` for public repos):
 
 ```sh
 gh repo create my-new-wiki --template jesse/llm-wiki-template --clone --private
